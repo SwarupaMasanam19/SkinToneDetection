@@ -51,4 +51,3 @@ pip install -r requirements.txt
 📌 **Developed by Swarupa Masanam**  
 📧 Contact: mlnswarupa05@gmail.com 
 
-# SkinToneDetection
