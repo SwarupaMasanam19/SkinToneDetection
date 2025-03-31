@@ -34,7 +34,7 @@ pip install -r requirements.txt
   python model.py
 
 
-### **📸 How It Works**  
+### ** How It Works**  
 1️⃣ Upload an image
 2️⃣ The model processes the image and extracts the **dominant skin tone**  
 3️⃣ The detected **HEX color code** is displayed on the UI  
