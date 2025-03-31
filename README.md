@@ -12,23 +12,8 @@ This project is a **Skin Tone Detection** system that identifies a user's skin t
 
 ### **🛠️ Technologies Used**  
 - **Python** 🐍 (for image processing & ML)  
-- **React** ⚛️ (for the user interface)  
 - **Pillow (PIL)** 📸 (for image handling)  
 - **NumPy & Scikit-Learn** 📊 (for K-Means clustering)  
-- **CSS3** 🎨 (for styling the UI)  
-
-### **📂 Project Structure**  
-```plaintext
-📦 Skin-Tone-Detection
- ┣ 📂 frontend                # React-based UI
- ┃ ┣ 📜 src/components        # React components
- ┃ ┣ 📜 public                # Static assets
- ┃ ┗ 📜 package.json          # React dependencies
- ┣ 📂 backend (optional)      # If needed later
- ┣ 📜 requirements.txt        # Required Python packages
- ┣ 📜 model.py                # ML model for skin tone detection
- ┣ 📜 README.md               # Project documentation
- ┗ 📜 LICENSE                 # Open-source license (optional)
 
 
 ### **⚙️ Installation & Setup**  
@@ -50,7 +35,7 @@ pip install -r requirements.txt
 
 
 ### **📸 How It Works**  
-1️⃣ Upload an image or capture one using the camera  
+1️⃣ Upload an image
 2️⃣ The model processes the image and extracts the **dominant skin tone**  
 3️⃣ The detected **HEX color code** is displayed on the UI  
 4️⃣ Use this information for personalized fashion recommendations!  
